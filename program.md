@@ -19,7 +19,7 @@ Chairs: Qian Li, Sean Ridge, Kandaga Pujiana
 - 1005 - 1030: Coffee and discussion
 - 1030 - 1100: Susan Wijffels - _TBD_
 - 1100 - 1120: Sujata Murty - _Understanding Indo-Pacific oceanic exchange through the Indonesian Throughflow since the late 1800s – a synthesis of coral δ18O and high-resolution ocean models_
-- 1120 - 1140: Laura Gruenburg - _TBD_
+- 1120 - 1140: Laura Gruenburg - _Indonesian Throughflow in the Indian Ocean: Pathways of Heat_
 - 1140 - 1200: [Larry Pratt](https://www2.whoi.edu/staff/lpratt/) - _The Panay Sill: Gateway to the Sulu Sea_
 - 1200 - 1230: Discussion
 
@@ -30,7 +30,7 @@ Lunch break: 1230 - 1330.
 Chairs: Julius Busecki, Alice Marzocchi, Shanice Bailey
 
 - 1330 - 1400: [Arne Biastoch](https://www.geomar.de/en/staff/fb1/od/abiastoch/) - _The brawniest retroflection_
-- 1400 - 1420: Viviane Menezes - _TBD_
+- 1400 - 1420: Viviane Menezes - _Sea Surface Salinity from SMAP: Arabian Sea, Bay of Bengal and a promising Red Sea application_
 - 1420 - 1440: Kay McMonigal - _Variability in Agulhas Current temperature and freshwater transports, with implications for Agulhas Leakage fluxes_
 - 1440 - 1515: Coffee
 - 1515 - 1630: Warm Day Discussion and wrap up
@@ -39,15 +39,14 @@ Dinner off-site at local restaurant (1800).
 
 ## Friday, Feb. 14: Cold Day
 
-- 0800 - 0830: Morning coffee and setup
+- 0830 - 0900: Morning coffee and setup
 
 ### Session III
 
 Chairs: Loic Houpert, Lauren Mosley, Laura Cimoli
 
-- 0830 - 0900: [Lynne Talley](https://ltalley.scrippsprofiles.ucsd.edu/) - _TBD_
-- 0900 - 0920: [D. Gwyn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
-- 0920 - 0950: [Mike Meredith](https://www.bas.ac.uk/profile/mmm/) - _Dense water outflow from the Weddell Sea: how it is changing and why it matters_
+- 0830 - 0900: [Veronica Tamsitt](https://www.veronicatamsitt.com/) - _3D pathways of Southern Ocean circulation_
+- 0930 - 0950: [D. Gwyn Evans](https://dgwynevans.com/) - _The cold transit of Southern Ocean upwelling_
 - 0950 - 1030: Coffee
 - 1030 - 1100: [Earle Wilson](https://earlew.com/) - _Drivers of recent sea ice and upper ocean variability in the Southern Ocean_
 - 1100 - 1120: [Andy Thompson](http://web.gps.caltech.edu/~andrewt/) - _Inter-sea exchange at the Antarctic margins_
@@ -61,10 +60,10 @@ Lunch break: 1230 - 1330.
 
 Chairs: Andy Stewart, Una Miller
 
-- 1330 - 1400: [Sarah Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) - _TBD_
+- 1330 - 1400: [Sarah Purkey](https://spurkey.scrippsprofiles.ucsd.edu/) - _Implications of the variability in AABW on the ocean heat and freshwater budgets_
 - 1400 - 1420: Alessandro Silvano - _Past, present and future of Antarctic Bottom Water formation_
 - 1420 - 1440: Paige Lavin - _Tracing Abyssal Flow Pathways in a New Global Bottom Water Climatology_
-- 1440 - 1500: [Ali Mashayek](https://www.mashayek.com/) - _Southern Ocean Pathways of Deep Ocean Ventilation_
+- 1440 - 1500: [Pierre Dutrieux](https://www.ldeo.columbia.edu/~pierred/) - _Exploring polar shelf seas, rise of the machines_
 - 1500 - 1530: Coffee
 - 1530 - 1600: Joey Comiso - _Anomalies and Trends in the Polar Oceans as Observed from Space_
 - 1600 - 1700: Discussion and Conference Wrap-up
