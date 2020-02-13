@@ -17,7 +17,7 @@ Chairs: Qian Li, Sean Ridge, Kandaga Pujiana
 - 0915 - 0945: [Matthew England](http://web.science.unsw.edu.au/~matthew/) - _Role of ocean gateways on regional and global climate_
 - 0915 - 1005: [Xinfeng Liang](http://www.ceoe.udel.edu/our-people/profiles/xfliang) - _Vertical Redistributions of the Global Oceanic Heat and Salt Contents_
 - 1005 - 1030: Coffee and discussion
-- 1030 - 1100: Susan Wijffels - _TBD_
+- 1030 - 1100: Susan Wijffels - _INSIGHTS FROM THIRTY YEARS OF XBT OBSERVATIONS ACROSS THE INDONESIAN THROUGHFLOW_
 - 1100 - 1120: Sujata Murty - _Understanding Indo-Pacific oceanic exchange through the Indonesian Throughflow since the late 1800s – a synthesis of coral δ18O and high-resolution ocean models_
 - 1120 - 1140: Laura Gruenburg - _Indonesian Throughflow in the Indian Ocean: Pathways of Heat_
 - 1140 - 1200: [Larry Pratt](https://www2.whoi.edu/staff/lpratt/) - _The Panay Sill: Gateway to the Sulu Sea_
@@ -35,7 +35,9 @@ Chairs: Julius Busecki, Alice Marzocchi, Shanice Bailey
 - 1440 - 1515: Coffee
 - 1515 - 1630: Warm Day Discussion and wrap up
 
-Dinner off-site at local restaurant (1800).
+### Group Dinner
+
+The group dinner will be held at [Hotel La Jolla](https://www.hilton.com/en/hotels/sancuqq-hotel-la-jolla/) at 6 pm. Dinner is provided along with 1 beverage ticket. A cash bar will also operate. If you need to drive to the Hotel La Jolla on Thursday night, the hotel is offering free parking. (Tell them you are at the Gateways dinner.)
 
 ## Friday, Feb. 14: Cold Day
 
