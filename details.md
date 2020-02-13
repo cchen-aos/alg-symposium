@@ -18,7 +18,7 @@ The workshop is timed to take place just before the
 [2020 Ocean Sciences Meeting](https://www2.agu.org/ocean-sciences-meeting/),
 in order to minimize participant travel and the associated carbon footprint.
 
-The [../program](program) will consist of two days of talks.
+The [program](../program) will consist of two days of talks.
 
 ## Hotel Information
 
